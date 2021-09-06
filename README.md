@@ -57,8 +57,9 @@ Deploying 'SolnSquareVerifier'
 OpenSea Link : [https://testnets.opensea.io/collection/breeserc](https://testnets.opensea.io/collection/breeserc)
 
 ## Accounts
-- Purchased 5 Tokens with this account - `0x696Ffa8C7bE9F5B7ec573e654979e06f205db05b`
 - Listed 5 Tokens for Sale with this account  - `0xEEB5f5372B4169A9754872B046Ec17387A6d198b`
+- Purchased 5 Tokens with this account - `0x696Ffa8C7bE9F5B7ec573e654979e06f205db05b`
+
 
 ## Notes
 - A `.infura` and a `.secret` file was added in the eth-contracts folder during development. They contained an Infura API Key and a Metamask wallet recovery phrase to assist with deployment.
